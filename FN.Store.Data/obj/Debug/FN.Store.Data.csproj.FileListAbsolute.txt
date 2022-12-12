@@ -1,0 +1,64 @@
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\FN.Store.Data.dll.config
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\FN.Store.Data.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\FN.Store.Data.pdb
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\FN.Store.Domain.2.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\FN.Store.Domain.2.pdb
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.pdb
+E:\aula2\FN.Store.Data\bin\Debug\FN.Store.Data.dll.config
+E:\aula2\FN.Store.Data\bin\Debug\FN.Store.Data.dll
+E:\aula2\FN.Store.Data\bin\Debug\FN.Store.Data.pdb
+E:\aula2\FN.Store.Data\bin\Debug\EntityFramework.dll
+E:\aula2\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\aula2\FN.Store.Data\bin\Debug\FN.Store.Domain.2.dll
+E:\aula2\FN.Store.Data\bin\Debug\FN.Store.Domain.2.pdb
+E:\aula2\FN.Store.Data\bin\Debug\EntityFramework.xml
+E:\aula2\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.AssemblyReference.cache
+E:\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CoreCompileInputs.cache
+E:\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CopyComplete
+E:\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.dll
+E:\aula2\FN.Store.Data\obj\Debug\FN.Store.Data.pdb
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Data.dll.config
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Data.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Data.pdb
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Domain.2.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Domain.2.pdb
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.pdb
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Data.dll.config
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Data.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Data.pdb
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Domain.2.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\FN.Store.Domain.2.pdb
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.xml
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CopyComplete
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\obj\Debug\FN.Store.Data.pdb
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Security.Permissions.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Security.Permissions.xml
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Data\bin\Debug\System.Security.Principal.Windows.xml

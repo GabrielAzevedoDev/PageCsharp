@@ -1,0 +1,23 @@
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.pdb
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.dll
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.pdb
+C:\Users\Gabriel\source\repos\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.AssemblyReference.cache
+E:\aula2\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.dll
+E:\aula2\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.pdb
+E:\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.AssemblyReference.cache
+E:\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.CoreCompileInputs.cache
+E:\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.dll
+E:\aula2\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.pdb
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.pdb
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.dll
+C:\Users\Gabriel\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.pdb
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Domain.2\bin\Debug\FN.Store.Domain.2.pdb
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.dll
+C:\Users\gabriel.oliveira\source\repos\aula2 - certa\FN.Store.Domain.2\obj\Debug\FN.Store.Domain.2.pdb
